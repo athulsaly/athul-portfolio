@@ -9,7 +9,7 @@ import { cn } from "@/lib/utils";
 const links = [
   { name: "home", path: "/" },
   { name: "resume", path: "/resume" },
-  { name: "contact", path: "/contact" },
+  { name: "contact me", path: "/contact" },
 ];
 
 const MobileNav = () => {
