@@ -1,5 +1,5 @@
 <html>
-This repository showcases a dynamic and visually engaging personal <a href="https://athulsaly.vercel.app target="_">portfolio website</a> built with cutting-edge web development technologies.
+This repository showcases a dynamic and visually engaging personal <a href="https://athulsaly.vercel.app" target="_">portfolio website</a> built with cutting-edge web development technologies.
 <br />
 <br />
 Key Features:
