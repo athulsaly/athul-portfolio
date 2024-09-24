@@ -56,12 +56,12 @@ const experience = {
     {
       company: "Sensesys Pvt. Ltd.",
       position: "Frontend Developer",
-      duration: "Jan 2021 - Jul 2022",
+      duration: "Jul 2021 - Jul 2022",
     },
     {
       company: "Bluwagon LLP.",
-      position: "Frontend Developer",
-      duration: "Dec 2020 - Dec 2021",
+      position: "Jr. Frontend Developer",
+      duration: "Dec 2020 - Jun 2021",
     },
   ],
 };
