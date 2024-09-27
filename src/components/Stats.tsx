@@ -30,7 +30,7 @@ const Stats = () => {
                   duration={5}
                   delay={2}
                   className="text-4xl xl:text-6xl font-extrabold"
-                  suffix={item.num === 8 ? "+" : ""}
+                  suffix={item.num === 7 ? "+" : ""}
                 />
                 <p
                   className={cn(
